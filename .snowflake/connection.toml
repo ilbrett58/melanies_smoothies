@@ -1,4 +1,4 @@
-[connections.snowflake]
+[default]
 account = "CYVFDNH-NVB01754"
 user = "NITHYA"
 password = "yFv3MzW:umrK3-v"
