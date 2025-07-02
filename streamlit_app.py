@@ -3,7 +3,7 @@ import streamlit as st
 from snowflake.snowpark.functions import col
 import requests
 
-smoothiefroot_all = requests.get("https://my.smoothiefroot.com/api/fruit/all)
+smoothiefroot_all = requests.get("https://my.smoothiefroot.com/api/fruit/all")
 sf_all_df = st.dataframe(data=smoothiefroot_all.json(), use_container_width=True)
 
 # Write directly to the app
