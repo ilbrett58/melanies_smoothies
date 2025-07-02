@@ -1,8 +1,0 @@
-[default]
-account = "CYVFDNH-NVB01754"
-user = "NITHYA"
-password = "yFv3MzW:umrK3-v"
-role = "SYSADMIN"
-warehouse = "COMPUTE_WH"
-database = "SMOOTHIES"
-schema = "PUBLIC"
